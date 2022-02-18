@@ -1,0 +1,1199 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-main {}
+
+.flex {
+    display: flex;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.align {
+    align-items: center;
+}
+
+.col {
+    flex-direction: column;
+}
+
+.col-r {
+    flex-direction: column-reverse;
+}
+
+.container-1 {
+    background-color: #FFF7F4;
+    padding: 20px;
+}
+
+.flx-1 {
+    /* background-color: aqua; */
+
+}
+
+.nav-a {
+    text-decoration: none;
+    margin: 0px 10px;
+    color: black;
+}
+
+.nav-btns button {
+    padding: 2px 6px;
+    background: transparent;
+    border: 1.4px solid black;
+    border-radius: 4px;
+}
+
+.a-red {
+    color: red;
+}
+
+.logo-top {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.logo-top b {
+    color: red;
+}
+
+.flex-2 {
+    margin: 50px 0px;
+}
+
+.f-2-p1 {
+    font-size: 28px;
+    width: 335px;
+    font-weight: bold;
+}
+
+.f-2-b-1 button {
+    padding: 5px 10px;
+    background-color: #FF5300;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+.f-2-p2 {
+    width: 300px;
+    font-size: 14px;
+    margin: 20px 0px;
+}
+
+.center-heading {
+    text-align: center;
+    margin: 40px 0px;
+}
+
+.center-hr {
+    width: 50px;
+    /* color: red; */
+    height: 1px;
+    border-width: 0px;
+    background-color: red;
+    margin: 0px 5px;
+}
+
+.sm-heading {
+    justify-content: center;
+    color: #FF5300;
+    font-size: 13px;
+}
+
+.center-p {
+    font-size: 22px;
+    margin: 10px 0px;
+    font-weight: bold;
+}
+
+
+/* Flex-3 start from here */
+.container-3 {
+    margin: 50px 0px;
+    padding: 20px;
+}
+
+.f-3-img {
+    width: 65px;
+}
+
+.f-3-num {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(90, 88, 88, 0.116);
+}
+
+.f-3-p1 {
+    font-weight: bold;
+    margin: 5px 0px;
+}
+
+.f-3-p2 {
+    font-size: 8px;
+    margin: 4px 0px;
+}
+
+.f-3-p3 {
+    font-size: 10px;
+}
+
+.f-3-sm {
+    width: 250px;
+    margin: 50px 0px;
+}
+
+
+/* container- 4 start from here */
+.container-4 {
+    padding: 40px 20px;
+    background-color: #FFF7F4;
+}
+
+.right-hr-p {
+    font-size: 12px;
+    color: #FF5300;
+}
+
+.right-hr {
+    width: 30px;
+    height: 1px;
+    border-width: 0px;
+    background: #FF5300;
+    margin: 0px 7px;
+}
+
+.flex-right {
+    align-items: baseline;
+}
+
+.f-4-ul {
+    list-style: none;
+    font-size: 12px;
+}
+
+.f-4-ul li {
+    margin: 3px 0px;
+}
+
+.tick-img {
+    width: 15px;
+    margin-right: 4px;
+}
+
+.bg-image {
+    width: 400px;
+}
+
+.f-4-p1 {
+    font-size: 24px;
+    width: 300px;
+    font-weight: bold;
+}
+
+.f-4-p2 {
+    font-size: 9px;
+    width: 300px;
+    margin: 16px 0px;
+}
+
+
+
+/* container-5 start from here */
+.container-5 {
+    padding: 20px;
+}
+
+.f-5-a {
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+    padding: 6px 20px;
+    font-size: 12px;
+    border-radius: 6px;
+}
+
+.f-5-a:hover {
+    color: white;
+    background-color: #FF5300;
+}
+
+/* container-5 start from here */
+
+/* container-6 start from here */
+.f-6-img {
+    width: 33.3%;
+}
+
+.f-6-b-1 {
+    width: 100%;
+}
+
+.flex-6 {
+    margin-bottom: 60px;
+}
+
+
+.share-img {
+    width: 30px;
+}
+
+
+.f-6-b-1 {
+    position: relative;
+}
+
+.index-p {
+    color: white;
+    font-weight: bold;
+}
+
+.f-6-index-div {
+
+    margin: auto;
+    /* z-index: -2; */
+    background-color: #ff5500a2;
+    text-align: center;
+    height: 70%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.big-index-6 {
+    position: absolute;
+    height: 100%;
+    width: 33.3%;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+/* container-6 end  here */
+
+/* container-7 start here */
+
+
+.container-7 {
+    background-color: #FFF7F4;
+    padding: 50px 20px;
+}
+
+
+.f-7-b-1 {
+    width: 160px;
+    background: white;
+    padding: 10px;
+}
+
+.f-7-star-img {
+    width: 17px;
+}
+
+.f-7-p1 {
+    font-size: 10px;
+    margin: 9px 0px;
+}
+
+.f-7-mini img {
+    width: 35px;
+}
+
+.f-7-sm-mini {
+    margin-left: 3px;
+}
+
+.f-7-sm-mini-p1 {
+    color: #FF5300;
+    font-weight: bold;
+    font-size: 8px;
+}
+
+.f-7-sm-mini-p2 {
+    font-size: 6px;
+}
+
+.coma-img {
+    width: 30px;
+}
+
+.flex-7 button {
+    padding: 0px 12px;
+    font-size: 20px;
+    border-radius: 50px;
+    /* width: 50px; */
+    border: 1px solid;
+    background: transparent;
+}
+
+.flex-7 button:hover {
+    border-color: #FF5300;
+    color: #FF5300;
+}
+
+/* container-7 ends here */
+
+/* container-8 start from here  */
+.container-8 {
+    padding: 20px;
+}
+
+.f-8-b-1 {
+    width: 350px;
+}
+
+.f-8-p1 {
+    font-weight: bold;
+
+    font-size: 25px;
+}
+
+.f-8-p2 {
+    /* font-weight: bold; */
+    margin: 20px 0px;
+    font-size: 9px;
+}
+
+.f-8-b-2 img {
+    width: 400px;
+}
+
+.f-8-sm {
+    justify-content: space-evenly;
+}
+
+.f-8-sm-p1 {
+    color: #FF5300;
+}
+
+.f-8-sm-p2 {
+    font-size: 6px;
+}
+
+/* container-8 ends here */
+
+/* container-9th start from here  */
+.flex-9 {
+    justify-content: space-evenly;
+}
+
+.container-9 {
+    background-color: #FF5300;
+    margin: 60px 0px;
+    padding: 40px 0px;
+    color: white;
+    text-align: center;
+}
+
+.f-9-p-1 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.f-9-blank {
+    height: 80px;
+    background-color: white;
+    width: 2px;
+}
+
+.f-9-p-2 {
+    font-size: 10px;
+}
+
+/* container-9th ends here */
+
+/* container-10 start from here */
+.container-10 {
+    background-color: #FFF7F4;
+    padding: 50px 20px;
+}
+
+.f-10-b-1 {
+    width: 220px;
+    padding: 10px;
+    background-color: white;
+    margin: 10px 0px;
+}
+
+.f-10-img {
+    width: 220px;
+}
+
+.f-10-p-1 {
+    width: 220px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.f-10-p-2 {
+    margin: 9px 0px;
+    width: 220px;
+    font-size: 10px;
+    /* font-weight: bold; */
+}
+
+.f-10-mini {
+    font-size: 6px;
+}
+
+.mini-img {
+    width: 6px;
+}
+
+.f-10-mini {
+    margin: 5px 0px;
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+
+
+.f-10-b-1 button {
+    margin-top: 7px;
+    padding: 4px 9px;
+    background: #FF5300;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+
+/* container-10 ends  here */
+
+/* container-11 start from here  */
+.container-11 {
+    background-color: #FF5300;
+    padding: 30px 20px;
+    margin: 50px 0px;
+
+}
+
+.flex-11 {
+    padding: 5px;
+}
+
+.f-11-sm {
+    align-items: baseline;
+}
+
+.f-11-sm p {
+    color: white;
+    font-size: 13px;
+}
+
+.f-11-hr {
+    margin-left: 5px;
+    border: none;
+    height: 1px;
+    background-color: white;
+    width: 50px;
+}
+
+.f-11-p-1 {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin: 10px 0px;
+}
+
+.f-11-b-2 button {
+    background-color: #FF5300;
+    border-color: white;
+    border: 2px solid white;
+    padding: 5px 17px;
+    color: white;
+    border-radius: 3px;
+    border-left: none;
+
+}
+
+.f-11-b-2 button:hover {
+    text-decoration: underline;
+}
+
+.f-11-b-2 input {
+    border-right: none;
+    /* background-color: #FF5300; */
+    border-color: white;
+    border: 2px solid white;
+    padding: 5px 17px;
+    border-radius: 3px;
+
+}
+
+/* container-11 ends here  */
+/* container-12 start here */
+.container-12 {
+    background-color: rgba(0, 0, 0, 0.849);
+    padding: 40px 20px;
+    color: white;
+}
+
+.f-12-sm-p1 {
+    font-weight: bold;
+}
+
+.red-p {
+    color: #FF5300;
+}
+
+.f-12-sm-p1 b {
+    color: #FF5300;
+}
+
+.flex-12 p {
+    width: 150px;
+    margin: 10px 0px;
+    /* text-align: left; */
+}
+
+.f-12-icons {
+    width: 150px;
+    margin: 10px 0px;
+}
+
+.f-12-b-1 {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: baseline; */
+}
+
+.f-12-b-2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.f-12-p2 {
+    font-size: 7px;
+}
+
+.socail-icon {
+    width: 25px;
+    margin: 0px 4px;
+}
+
+.f-12-hr-botm {
+    border: none;
+    height: 1px;
+    background-color: #fff;
+}
+
+.f-12-bottom {
+    margin-top: 20px;
+}
+
+.f-12-botom {
+    padding: 10px 0px;
+    font-size: 13px;
+}
+
+.f-12-botom img {
+    width: 40px;
+}
+
+.footer-ul {
+    margin-left: 60px;
+    list-style: none;
+}
+
+.footer-ul li {
+    margin-left: 60px;
+}
+
+.footer-ul li::before {
+    content: "•";
+    color: #FF5300;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em
+}
+
+/* container-12 ends here */
+
+/* media query start from here the responsiveness of a website the main part of the website  */
+@media only screen and (min-width: 1025px) {
+    .f-2-p1 {
+        font-size: 37px;
+        width: 450px;
+    }
+
+    .bg-image {
+        width: 520px;
+    }
+
+    .f-2-p2 {
+        width: 450px;
+        font-size: 13px;
+        margin: 30px 0px;
+    }
+
+    .sm-heading {
+        margin: 20px 0px;
+        font-size: 20px;
+    }
+
+    .center-p {
+        font-size: 35px;
+    }
+
+    .f-3-img {
+        width: 100px;
+    }
+
+    .f-3-p1 {
+        font-size: 21px;
+    }
+
+    .f-3-p2 {
+        font-size: 10px;
+        margin: 8px 0px;
+    }
+
+    .right-hr-p {
+        font-size: 17px;
+    }
+
+    .f-4-p1 {
+        font-size: 32px;
+        width: 450px;
+        font-weight: bold;
+        margin: 5px 0px;
+    }
+
+    .f-4-p2 {
+        font-size: 13px;
+        width: 450px;
+        margin: 22px 0px;
+    }
+
+    .tick-img {
+        width: 20px;
+        margin-right: 7px;
+    }
+
+    .f-5-a {
+        font-size: 16px;
+    }
+
+    .f-7-b-1 {
+        width: 250px;
+    }
+
+    .f-8-b-2 img {
+        width: 520px;
+    }
+
+    .f-8-b-1 {
+        width: 450px;
+    }
+
+    .f-8-p1 {
+        font-size: 32px;
+    }
+
+    .f-8-p2 {
+        margin: 25px 0px;
+        font-size: 13px;
+    }
+
+    .f-9-p-1 {
+        font-size: 30px;
+    }
+
+    .f-9-b-1 img {
+        width: 70px;
+    }
+
+    .f-9-p-2 {
+        font-size: 15px;
+    }
+
+    .f-8-sm-p1 {
+        font-size: 25px;
+    }
+
+    .f-8-sm-p2 {
+        font-size: 10px;
+    }
+
+    .f-10-img {
+        width: 280px;
+    }
+
+    .f-10-b-1 {
+        width: 290px;
+    }
+
+    .f-10-p-1 {
+        width: 280px;
+        font-size: 16px;
+    }
+
+    .f-10-mini {
+        width: 265px;
+    }
+
+    .mini-img {
+        width: 8px;
+    }
+
+    .f-10-mini {
+        font-size: 8px;
+    }
+
+    .f-10-p-2 {
+        margin: 12px 0px;
+        width: 280px;
+        font-size: 13px;
+    }
+
+    .f-11-sm p {
+        color: white;
+        font-size: 20px;
+    }
+
+    .f-11-p-1 {
+        font-size: 32px;
+        margin: 20px 0px;
+    }
+
+    .flex-12 p {
+        width: 210px;
+        margin: 15px 0px;
+    }
+
+    .f-12-p2 {
+        font-size: 12px;
+    }
+
+    .f-12-icons {
+        width: 210px;
+        margin: 10px 0px;
+    }
+
+    .socail-icon {
+        width: 32px;
+    }
+
+    .f-12-sm-p1 {
+        font-size: 25px;
+    }
+
+    .red-p {
+        font-size: 22px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .logo-top {
+        font-size: 19px;
+    }
+
+    .f-12-botom img {
+        display: none;
+    }
+
+    .nav-a {
+        margin: 0px 5px;
+        font-size: 11px;
+    }
+
+    .nav-btns button {
+        display: none;
+    }
+
+    .f-2-p1 {
+        font-size: 17px;
+        width: 250px;
+        font-weight: bold;
+    }
+
+    .f-2-p2 {
+        width: 250px;
+        font-size: 9px;
+        margin: 14px 0px;
+    }
+
+    .f-2-b-1 button {
+        font-size: 11px;
+    }
+
+    .bg-image {
+        width: 250px;
+    }
+
+    .sm-heading {
+        font-size: 10px;
+    }
+
+    .center-p {
+        font-size: 19px;
+        margin: 5px 0px;
+    }
+
+    .f-3-sm {
+        width: 150px;
+        margin: 30px 0px;
+    }
+
+    .f-3-p3 {
+        font-size: 8px;
+    }
+
+    .f-4-p1 {
+        font-size: 16px;
+        width: 250px;
+    }
+
+    .f-4-p2 {
+        font-size: 8px;
+        width: 250px;
+    }
+
+    .right-hr-p {
+        font-size: 10px;
+        margin: 4px 0px;
+    }
+
+    .f-4-ul li {
+        font-size: 10px;
+    }
+
+    .tick-img {
+        width: 12px;
+    }
+
+    .f-5-a {
+        padding: 6px 7px;
+        font-size: 10px;
+    }
+
+    .f-7-b-1 {
+        width: 100px;
+    }
+
+    .f-7-p1 {
+        font-size: 6px;
+    }
+
+    .f-7-star-img {
+        width: 10px;
+    }
+
+    .f-7-mini img {
+        width: 27px;
+    }
+
+    .f-7-sm-mini-p1 {
+        font-size: 5px;
+    }
+
+    .f-7-sm-mini-p2 {
+        font-size: 3px;
+    }
+
+    .coma-img {
+        width: 20px;
+    }
+
+    .f-8-b-1 {
+        width: 250px;
+    }
+
+    .f-8-p1 {
+        font-size: 15px;
+    }
+
+    .f-8-p2 {
+        font-size: 5px;
+    }
+
+    .f-8-sm-p1 {
+        font-size: 12px;
+    }
+
+    .f-8-sm-p2 {
+        font-size: 4px;
+    }
+
+    .f-8-b-2 img {
+        width: 250px;
+    }
+
+    .f-9-b-1 img {
+        width: 20px;
+    }
+
+    .f-9-b-1 img {
+        width: 40px;
+    }
+
+    .f-9-p-1 {
+        font-size: 16px;
+    }
+
+    .f-9-p-2 {
+        font-size: 7px;
+    }
+
+    .f-10-b-1 {
+        width: 150px;
+        padding: 7px;
+    }
+
+    .f-10-img {
+        width: 150px;
+    }
+
+    .f-10-p-1 {
+        width: 150px;
+        font-size: 8px;
+    }
+
+    .f-10-p-2 {
+        width: 150px;
+        font-size: 7px;
+    }
+
+    .f-10-mini {
+        width: 150px;
+    }
+
+    .f-10-b-1 button {
+        font-size: 7px;
+    }
+
+    .f-10-mini {
+        font-size: 4px;
+    }
+
+    .mini-img {
+        width: 4px;
+    }
+
+    .f-11-sm p {
+        font-size: 10px;
+    }
+
+    .f-11-p-1 {
+        font-size: 16px;
+    }
+
+    .f-11-b-2 input {
+        font-size: 12px;
+    }
+
+    .f-11-b-2 button {
+        font-size: 12px;
+    }
+
+    .flex-12 p {
+        width: 110px;
+    }
+
+    .f-12-icons {
+        width: 110px;
+    }
+
+    .socail-icon {
+        width: 18px;
+        margin: 0px 4px;
+    }
+
+    .red-p {
+        font-size: 14px;
+    }
+
+    .footer-ul {
+        margin-left: 0px;
+        list-style: none;
+    }
+
+    .footer-ul li {
+        margin-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .nav-btns {
+        display: none;
+    }
+
+    .flex-2 {
+        flex-direction: column-reverse;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .bg-image {
+        width: 100%;
+    }
+
+    .f-2-p1 {
+        width: auto;
+    }
+
+    .f-2-p2 {
+        margin: auto;
+        width: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .flex-3 {
+        flex-direction: column;
+    }
+
+    .f-3-b-1 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .flex-4 {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .flex-right {
+        justify-content: center;
+    }
+
+    .f-4-p1 {
+        width: auto;
+    }
+
+    .f-4-p2 {
+        font-size: 12px;
+        width: auto;
+    }
+
+    .f-4-ul {
+        margin: auto;
+        width: 175px;
+    }
+
+    .f-5-a {
+        padding: 1px 0px;
+        font-size: 7px;
+    }
+
+    .f-7-b-3 {
+        display: none;
+    }
+
+    .flex-8 {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+
+    .f-8-b-2 img {
+        width: 90%;
+    }
+
+    .f-8-b-1 {
+        width: auto;
+    }
+
+    .f-8-p2 {
+        font-size: 12px;
+    }
+
+    .f-8-sm-p1 {
+        font-size: 19px;
+    }
+
+    .f-8-sm-p2 {
+        font-size: 7px;
+    }
+
+    .flex-10 {
+        flex-direction: column;
+    }
+
+    .f-10-b-1 {
+        margin: auto;
+        width: 250px;
+        margin-bottom: 30px;
+    }
+
+    .f-10-img {
+        width: 250px;
+    }
+
+    .f-10-p-1 {
+        width: 250px;
+        font-size: 12px;
+    }
+
+    .f-10-mini {
+        width: 250px;
+    }
+
+    .mini-img {
+        width: 6px;
+    }
+
+    .f-10-mini {
+        font-size: 6px;
+    }
+
+    .f-10-p-2 {
+        width: 250px;
+        font-size: 12px;
+    }
+
+    .f-10-b-1 button {
+        font-size: 13px;
+    }
+
+    .flex-11 {
+        flex-direction: column;
+    }
+
+    .f-11-b-2 {
+        margin-top: 20px;
+    }
+
+    .flex-12 {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .f-12-b-1 {
+        flex-direction: column;
+    }
+
+    .f-12-b-2 {
+        flex-direction: column;
+    }
+
+    .f-11-b-2 input {
+        padding: 5px 10px;
+    }
+
+    .f-11-b-2 button {
+        padding: 5px 10px;
+    }
+
+    .f-12-botom {
+        padding: 10px 0px;
+        font-size: 10px;
+    }
+
+    .f-botm {
+        flex-direction: column;
+        width: 250px;
+        margin: auto;
+        text-align: center;
+    }
+
+    .footer-ul {
+        margin-top: 5px;
+    }
+}
